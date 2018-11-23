@@ -1,4 +1,4 @@
-FROM nginx:1.11
+FROM nginx:1.15
 
 ENV PHP_HOST phpfpm
 ENV PHP_PORT 9000
